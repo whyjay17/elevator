@@ -2,6 +2,7 @@
 #include "elevator.h"
 using namespace std;
 
+//first commit test
 
 Elevator::Elevator() {
 	CurrentFloor = 1;
