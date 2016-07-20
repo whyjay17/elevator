@@ -144,9 +144,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Elevator.cpp" />
+    <ClCompile Include="Rider.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Elevator.h" />
+    <ClInclude Include="Rider.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
